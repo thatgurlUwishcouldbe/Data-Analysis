@@ -1,5 +1,4 @@
 # Data-Analysis
-some of my Python applications
 
 This project analyzes student data and builds machine learning models to:
 - Predict final grades (Regression)
